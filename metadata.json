@@ -1,0 +1,6 @@
+{
+  "name": "Engineering & Technology: Famous Personalities",
+  "description": "An interactive museum-grade web presentation showcasing 14 pioneers of engineering, computing, aerospace, and wireless technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
